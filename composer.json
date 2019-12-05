@@ -1,0 +1,5 @@
+{
+    "require": {
+        "angelleye/paypal-php-library": "^3.0"
+    }
+}
